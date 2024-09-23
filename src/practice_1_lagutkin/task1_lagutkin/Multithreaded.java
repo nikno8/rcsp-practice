@@ -1,4 +1,4 @@
-package task1_lagutkin;
+package practice_1_lagutkin.task1_lagutkin;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;

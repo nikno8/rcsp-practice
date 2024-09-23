@@ -1,4 +1,4 @@
-package task2_lagutkin;
+package practice_1_lagutkin.task2_lagutkin;
 
 import java.util.Scanner;
 import java.util.concurrent.*;
@@ -37,9 +37,10 @@ public class FutureExample {
             } catch (InterruptedException | ExecutionException e) {
                 e.printStackTrace();
             }
-        }
 
+        }
         executor.shutdown();
+
     }
 }
 

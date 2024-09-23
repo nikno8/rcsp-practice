@@ -1,4 +1,4 @@
-package task3_lagutkin;
+package practice_1_lagutkin.task3_lagutkin;
 
 public class File {
     private final FileType type;
